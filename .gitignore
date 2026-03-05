@@ -1,0 +1,8 @@
+node_modules
+.idea
+.DS_Store
+.vscode
+.env
+dist
+leveldb
+babel.html

@@ -1,0 +1,12 @@
+export const ALPHA = "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя.,!?- ";
+export const WALLS = 4;
+export const SHELVES = 5;
+export const BOOKS = 32;
+export const PAGES = 410;
+export const LINES = 40;
+export const CHARS = 80;
+export const PAGE_LENGTH = LINES * CHARS;
+export const BOOK_LENGTH = PAGE_LENGTH * PAGES;
+// GMP base-39 digits: 0-9 (10), A-Z (26), a-c (3) = 39
+export const BASE_ALPHA = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabc";
+export const BASE_LAST = BASE_ALPHA[BASE_ALPHA.length - 1];
