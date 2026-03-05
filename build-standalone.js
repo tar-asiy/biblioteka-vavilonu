@@ -238,7 +238,7 @@ button[disabled] { text-decoration: none; cursor: not-allowed; opacity: 0.5; }
 <main id="app"></main>
 
 <footer style="display:none" id="main-footer">
-  <p>За мотивами <a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" target="_blank">Х. Л. Борхеса</a> &middot; Код: <a href="https://github.com/tdjsnelling/babel" target="_blank">T. Snelling</a> &middot; Локалізація: <a href="https://github.com/tar-asiy/" target="_blank">Т. Саламанюк</a></p>
+  <p>За мотивами оповідання <a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" target="_blank">Х. Л. Борхеса</a> &middot; <a href="https://github.com/tdjsnelling/babel" target="_blank">Код</a>: T. Snelling &middot; <a href="https://github.com/tar-asiy/biblioteka-vavilonu" target="_blank">Локалізація</a>: Т. Саламанюк</p>
   <p class="epigraph">Цим мистецтвом ти зможеш споглядати варіацію 33 літер...</p>
 </footer>
 
